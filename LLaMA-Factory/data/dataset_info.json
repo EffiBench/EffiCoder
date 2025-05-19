@@ -1,5 +1,5 @@
 {
   "efficoder": {
-    "file_name": "efficoder.json"
+    "file_name": "{your_directory_path}/datasets/efficoder.json"
   }
 }
